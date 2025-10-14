@@ -1,3 +1,5 @@
 # print digunakan untuk mencetak
-print("Kota ku \t purwokerto")
+#\t : fungsi nya untuk tabulasi
+#\n :  fungsinya untuk berpindah ke baris baru / enter
+print("Kota ku \n purwokerto")
 # kota ku       purwokerto

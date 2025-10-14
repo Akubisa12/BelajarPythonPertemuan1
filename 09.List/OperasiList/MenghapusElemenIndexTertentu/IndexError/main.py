@@ -1,0 +1,2 @@
+list_3 = [10,70,20,70]
+x = list_3.pop(7) # INI ERROR KARENA TIDAK ADA INDEX KE-7

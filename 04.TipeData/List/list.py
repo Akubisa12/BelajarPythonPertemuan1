@@ -2,6 +2,8 @@
 # index = n-1
 # index selalu dimulai dari 0
 list_1 = [2, 4, 8, 16]
+print("new")
+# print(list_1[-1])
 #  2 indeks ke 0
 #  4 indeks ke 1
 #  8 indeks ke 2
@@ -28,6 +30,7 @@ a.append(8)
 
 
 fruits = ["apple", "banana", "cherry"]
+# fungsi bawaan -> built in function
 new_fruits = fruits.copy()
 # print(new_fruits) # Output: ['apple', 'banana', 'cherry']
 

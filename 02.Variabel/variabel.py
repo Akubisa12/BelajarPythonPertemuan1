@@ -1,6 +1,7 @@
 myCity : str = "Purwokerto"
 umur : int = 34
-isTrue : bool = 1
+decimal : float = 3.14
+isTrue : bool = True
 # true : 1
 #  false : 0
 print(isTrue)
@@ -16,3 +17,9 @@ print(isTrue)
 # print("hasil dari variabel myCountry")
 # print(myCountry)
 # print("hasil dari variabel myCountry")
+
+
+nama = "Jessen"
+umur = 18
+laki = True 
+print("nama: %s " % (nama))
